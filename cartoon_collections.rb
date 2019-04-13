@@ -17,7 +17,7 @@ new_array
 end
 
 def long_planeteer_calls(array)# code an argument here
-  def long_planeteer_calls(array)
+
   i = 0
   if  array.any? {|i| i.length > 4}
     return true
