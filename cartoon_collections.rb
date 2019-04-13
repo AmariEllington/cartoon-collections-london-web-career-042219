@@ -8,7 +8,7 @@ end
 
 def summon_captain_planet
   new_array = []
-  i = 0 
+  i = 0
   while i < array.length
     new_array << array[i].capitalizes + "!"
     i += 1
